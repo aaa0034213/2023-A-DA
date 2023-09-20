@@ -1,0 +1,6 @@
+원 소스 파일
+https://github.com/aaa0034213/2023-A-DA/blob/main/week03-seoul-temperautre-yhk.ipynb
+
+추가 .com 제거
+코랩으로 전환
+https://colab.research.google.com/github/aaa0034213/2023-A-DA/blob/main/week03-seoul-temperautre-yhk.ipynb
